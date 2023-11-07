@@ -1,0 +1,76 @@
+[
+  {
+    "module_id": 1,
+    "module_name": "Category",
+    "module_permission": [
+      {
+        "id": 1,
+        "name": "view"
+      },
+      {
+        "id": 2,
+        "name": "create"
+      }
+    ],
+    "module_menu": [
+      {
+        "id": 3,
+        "name": "Category"
+      },
+      {
+        "id": 4,
+        "name": "Add Category"
+      }
+    ]
+  },
+
+  {
+    "module_id": 2,
+    "module_name": "Product",
+    "module_permission": [
+      {
+        "id": 5,
+        "name": "view"
+      },
+      {
+        "id": 6,
+        "name": "create"
+      }
+    ],
+    "module_menu": [
+      {
+        "id": 7,
+        "name": "Product"
+      },
+      {
+        "id": 8,
+        "name": "Add Product"
+      }
+    ]
+  },
+
+  {
+    "module_id": 3,
+    "module_name": "Location",
+    "module_permission": [
+      {
+        "id": 9,
+        "name": "view"
+      },
+      {
+        "id": 10,
+        "name": "create"
+      }
+    ],
+    "module_menu": [
+      {
+        "id": 11,
+        "name": "Location"
+      },
+      {
+        "id": 12,
+        "name": "Add Location"
+      }
+    ]
+  }
+]

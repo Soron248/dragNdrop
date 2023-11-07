@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "moduleName": "Dashboard",
+    "action": ["Dashboard view"],
+    "menuName": ["Dashboard"]
+  },
+  {
+    "id": 2,
+    "moduleName": "Category",
+    "action": [
+      "Category view",
+      "Category Create",
+      "Category Edit",
+      "Category Delete"
+    ],
+    "menuName": ["Category"]
+  },
+  {
+    "id": 3,
+    "moduleName": "Product",
+    "action": [
+      "Product view",
+      "Product Create",
+      "Product Edit",
+      "Product Delete"
+    ],
+    "menuName": ["Product Manage"]
+  },
+  {
+    "id": 4,
+    "moduleName": "Storage Location",
+    "action": [
+      "Storage Location view",
+      "Storage Location Create",
+      "Storage Location Edit",
+      "Storage Location Delete"
+    ],
+    "menuName": ["Storage Location"]
+  },
+  {
+    "id": 5,
+    "moduleName": "Product Stock",
+    "action": ["Product Stock view"],
+    "menuName": ["Product Stock", "Previous Stock"]
+  }
+]
